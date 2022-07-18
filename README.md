@@ -6,4 +6,4 @@ Olá bem vindo ao nosso livro de receitas
 
 - Pave
 
-- Bolo de Cenoura
+- Bolo de Cenoura com calde chocolate 
